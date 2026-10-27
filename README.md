@@ -1,2 +1,2 @@
-# linktobox.github.io
-linktobox静态站
+# linktowow.github.io
+linktowow静态站
